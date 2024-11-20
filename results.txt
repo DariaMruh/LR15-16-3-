@@ -1,0 +1,7 @@
+Student Name, Course, Group, Low Grade Count
+one, 3, A, Yes
+Second, 4, B, Yes
+Tree, 3, C, No
+D, 0, , Yes
+
+Total students with a low grade: 3
